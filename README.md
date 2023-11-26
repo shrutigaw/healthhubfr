@@ -29,6 +29,7 @@ In the current healthcare landscape, individuals often struggle to find a centra
 <h3>ScreenShots:</h3>
 Step1:Creating Virtual Machine
 <br>
-<img src=""></img>
+<br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/1792ee34-5921-4de8-8786-2fea02f66718">"></img>
 </br>
  
