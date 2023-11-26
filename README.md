@@ -30,6 +30,28 @@ In the current healthcare landscape, individuals often struggle to find a centra
 Step1:Creating Virtual Machine
 <br>
 <br>
-<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/1792ee34-5921-4de8-8786-2fea02f66718">"></img>
-</br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/1792ee34-5921-4de8-8786-2fea02f66718"></img>
+<br>
+<br>
+Step2:Container registries creating
+<br>
+<br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/b653a4d9-2920-47d0-b5f0-793ce3780c39"></img>
+<br>
+<br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/0858a3ff-2325-4f98-a76f-ab72b19df3a0"></img>
+<br>
+<br>
+Step3:giving access
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/4f2c25d6-3982-45f9-89f0-c282fa230fd7"></img>
+<br>
+<br>
+Step4:access is added
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/b39abdc8-2c11-470d-bad7-9093449a4fc1"></img>
+<br>
+<br>
+Step5:Creating container instance
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/21677257-3b82-4b6a-9e03-93739ed0ae94"></img>
+<br>
+<br>
  
