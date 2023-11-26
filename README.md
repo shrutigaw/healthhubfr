@@ -1,4 +1,4 @@
-h1> Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
+<h1> Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 
 <h3>Website Implementation Link:</h3>
 <a href="http://healthhub.afe6d5chcrf6c6dh.eastus.azurecontainer.io/">healthhub.afe6d5chcrf6c6dh.eastus.azurecontainer.io</a>
@@ -29,8 +29,6 @@ In the current healthcare landscape, individuals often struggle to find a centra
 <h3>ScreenShots:</h3>
 Step1:Creating Virtual Machine
 <br>
-<br>
 <img src="C:\Users\ADMIN\Documents\GitHub\frtscreenshot"></img>
-<br>
-<br>
+</br>
  
