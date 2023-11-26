@@ -29,6 +29,6 @@ In the current healthcare landscape, individuals often struggle to find a centra
 <h3>ScreenShots:</h3>
 Step1:Creating Virtual Machine
 <br>
-<img src="C:\Users\ADMIN\Documents\GitHub\frtscreenshot"></img>
+<img src=""></img>
 </br>
  
