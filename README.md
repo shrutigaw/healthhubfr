@@ -22,7 +22,6 @@ In the current healthcare landscape, individuals often struggle to find a centra
 
 <h3>Primary Azure Services Used:</h3>
 <li>Azure linux Virtual Machine</li>
-<li>Dockar</li>
 <li>Container Registries</li>
 <li>Container Instances</li>
 
@@ -53,7 +52,7 @@ Step5:Creating container instance
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/ca2db87c-3c33-4be1-8d1b-63fec9d1af7f"></img>
 <br>
 <br>
-output
+<h3>output</h3>
 <br>
 <br>
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/e46f3951-13d4-425d-97fb-a74f670959be"></img>
