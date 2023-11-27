@@ -38,7 +38,7 @@ Step2:Container registries creating
 <br>
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/b653a4d9-2920-47d0-b5f0-793ce3780c39"></img>
 <br>
-<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/4f2c25d6-3982-45f9-89f0-c282fa230fd7"></img>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/6c285115-e86a-43ad-aba6-cf4ce4a28ad4"></img>
 <br>
 Step3:adding access
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/b39abdc8-2c11-470d-bad7-9093449a4fc1"></img>
@@ -46,6 +46,8 @@ Step3:adding access
 <br>
 Step5:Creating container instance
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/21677257-3b82-4b6a-9e03-93739ed0ae94"></img>
+<br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/6c285115-e86a-43ad-aba6-cf4ce4a28ad4"></img>
 <br>
 <br>
  
