@@ -47,7 +47,8 @@ Step3:adding access
 Step5:Creating container instance
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/21677257-3b82-4b6a-9e03-93739ed0ae94"></img>
 <br>
-<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/6c285115-e86a-43ad-aba6-cf4ce4a28ad4"></img>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/ca2db87c-3c33-4be1-8d1b-63fec9d1af7f"></img>
+
 <br>
 <br>
  
