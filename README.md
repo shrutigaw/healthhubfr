@@ -38,9 +38,10 @@ Step2:Container registries creating
 <br>
 <img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/b653a4d9-2920-47d0-b5f0-793ce3780c39"></img>
 <br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/4f2c25d6-3982-45f9-89f0-c282fa230fd7"></img>
 <br>
 Step3:giving access
-<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/4f2c25d6-3982-45f9-89f0-c282fa230fd7"></img>
+
 <br>
 <br>
 Step4:access is added
